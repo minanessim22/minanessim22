@@ -7,8 +7,6 @@
 - 🌱 I’m currently in my 4th year and working on my graduation project.
 - 💡 Passionate about software development, problem-solving, and building smart solutions.
 - 🔗 **My GitHub:** [minanessim22](https://github.com/minanessim22)
-- 📫 **How to reach me:** [اكتب إيميلك هنا] أو [حط لينك لينكد إن بتاعك هنا]
-
 ---
 
 ### 🛠️ Languages & Databases
